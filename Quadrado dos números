@@ -1,0 +1,14 @@
+static void Main(string[] args)
+        {
+            int x = 15, n = 0;
+            while (x <=200) 
+            {
+                n = x * x;
+                Console.WriteLine(n);
+                x++;
+               
+                
+            }
+        }
+    }
+}
