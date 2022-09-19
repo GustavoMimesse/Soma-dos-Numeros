@@ -1,0 +1,14 @@
+static void Main(string[] args)
+        {
+            
+            for (int x= 1; x <= 30; x = x + 1)
+            {
+                if (x%4==0)
+                {
+                    Console.WriteLine(x);
+                    
+                }
+            }
+
+        }
+    }
